@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="ch.uzh.ifi.seal.esn.main" target="11" />
+      <module name="ch.uzh.ifi.seal.esn.test" target="11" />
+      <module name="esn zurich.esn.main" target="11" />
+      <module name="esn zurich.esn.test" target="11" />
+      <module name="esn-zurich-website-server.main" target="11" />
+      <module name="esn-zurich-website-server.test" target="11" />
+      <module name="esn.Application.main" target="11" />
+      <module name="esn.Application.test" target="11" />
+      <module name="esn.main" target="11" />
+      <module name="esn.test" target="11" />
+      <module name="java.esn.main" target="11" />
+      <module name="java.esn.test" target="11" />
+      <module name="main.java.esn.main" target="11" />
+      <module name="main.java.esn.test" target="11" />
+      <module name="soprafs19.main" target="11" />
+      <module name="soprafs19.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
